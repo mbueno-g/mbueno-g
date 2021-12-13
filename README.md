@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <img src="https://badge42.herokuapp.com/api/stats/mbueno-g">
 </div>
 
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbueno-g&theme=blueberry">
+</div>
+
 <br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
