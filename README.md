@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
+</br>
+
 <div align=center>
 <img src="https://badge42.herokuapp.com/api/stats/mbueno-g">
 </div>
 
+</br>
+
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbueno-g&theme=blueberry">
 </div>
+
+</br>
 
 <br>
 <div align="center">  
